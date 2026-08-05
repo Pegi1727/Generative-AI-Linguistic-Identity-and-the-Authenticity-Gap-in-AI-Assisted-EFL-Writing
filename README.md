@@ -3,14 +3,14 @@
 
 Target Journal: SSCI / Q1 Language Education / Applied Linguistics  
 Status: Research Data Package for Peer Review  
-Author: Pegah Marikh (Pegah.merrikhiii@gmail.com)  
+Author: Pegah Marikhi (Pegah.merrikhiii@gmail.com)  
 Date:* July 2026
 
 ---
 
 ## 🖼️ Graphical Abstract
 !Graphical Abstract
-Figure 1: Conceptual framework of the "Authenticity Gap" in AI-assisted writing processes.
+(https://github.com/Pegi1727/Generative-AI-Linguistic-Identity-and-the-Authenticity-Gap-in-AI-Assisted-EFL-Writing/blob/main/figures/ga.png)
 
 ---
 
