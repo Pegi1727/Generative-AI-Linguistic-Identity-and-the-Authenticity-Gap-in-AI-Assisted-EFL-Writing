@@ -5,13 +5,11 @@
 **Author:** Prof. Pegah Marikh | 📧 [Pegah.merrikhiii@gmail.com](mailto:Pegah.merrikhiii@gmail.com) | 📅 July 2026
 
 ---
-
 ## Graphical Abstract
 
-![Graphical Abstract](figures/ga.png)
+![Graphical Abstract](./figures/ga.png)
 
 *Figure 1. Conceptual framework of the “Authenticity Gap” in AI-assisted writing processes.*
----
 
 ## 📖 Study Overview
 This high-impact mixed-methods study investigates the psychological and linguistic shift in advanced EFL learners (N=60) when using **GPT-4o** for writing revisions. We examine the tension between linguistic perfection and the learner's **authentic linguistic identity**.
