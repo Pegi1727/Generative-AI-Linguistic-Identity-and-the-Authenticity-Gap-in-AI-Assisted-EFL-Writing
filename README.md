@@ -6,10 +6,11 @@
 
 ---
 
-## 🎨 Graphical Abstract
-![Graphical Abstract](figures/ga.png)
-*Figure 1: The Graphical Abstract representing the core thesis and the "Authenticity Gap" in AI-assisted writing.*
+## Graphical Abstract
 
+![Graphical Abstract](figures/ga.png)
+
+*Figure 1. Conceptual framework of the “Authenticity Gap” in AI-assisted writing processes.*
 ---
 
 ## 📖 Study Overview
