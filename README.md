@@ -1,17 +1,16 @@
 
-
 # Language Education in a Brave New World: Generative AI, Linguistic Identity, and the Authenticity Gap in AI-Assisted EFL Writing
 
 Target Journal: SSCI / Q1 Language Education / Applied Linguistics  
 Status: Research Data Package for Peer Review  
-Author: Pegah Marikhi (Pegah.merrikhiii@gmail.com)  
+Author: Pegah Marikh (Pegah.merrikhiii@gmail.com)  
 Date:* July 2026
 
 ---
 
 ## 🖼️ Graphical Abstract
 !Graphical Abstract
-[Figure 1: Conceptual framework of the "Authenticity Gap" in AI-assisted writing processes.](https://github.com/Pegi1727/Generative-AI-Linguistic-Identity-and-the-Authenticity-Gap-in-AI-Assisted-EFL-Writing/blob/main/figures/ga.png)
+Figure 1: Conceptual framework of the "Authenticity Gap" in AI-assisted writing processes.
 
 ---
 
@@ -55,7 +54,7 @@ Below are the primary findings presented in the manuscript:
 
 ## ⚙️ 3. Technical Specifications & Replication
 - Analysis Tools: R (LME4 package), SPSS.
-- Reference Number (DOI): 
+- Reference Number (DOI): 10.5281/zenodo.21770840
 - Replication: Statistical scripts in the `/code/` directory refer directly to the `LMEM_Data` sheet.
 
 ---
@@ -65,3 +64,5 @@ Below are the primary findings presented in the manuscript:
 - This package is provided for the purpose of peer review and scientific replication.
 - License:* MIT License / Open Data.
 ```
+
+---
