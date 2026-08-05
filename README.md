@@ -4,7 +4,16 @@
 
 **Author:** Prof. Pegah Marikhi | 📧 [Pegah.merrikhiii@gmail.com](mailto:Pegah.merrikhiii@gmail.com) | 📅 July 2026
 
-![Graphical Abstract](https://raw.githubusercontent.com/Pegi1727/Generative-AI-Linguistic-Identity-and-the-Authenticity-Gap-in-AI-Assisted-EFL-Writing/main/figures/ga.png)
+<h2>Graphical Abstract</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pegi1727/Generative-AI-Linguistic-Identity-and-the-Authenticity-Gap-in-AI-Assisted-EFL-Writing/main/figures/ga.png" width="850" alt="Graphical Abstract">
+</p>
+
+<p align="center">
+  <em>Figure 1. Conceptual framework of the “Authenticity Gap” in AI-assisted EFL writing.</em>
+</p>
+
 
 ## 📖 Study Overview
 This high-impact mixed-methods study investigates the psychological and linguistic shift in advanced EFL learners (N=60) when using **GPT-4o** for writing revisions. We examine the tension between linguistic perfection and the learner's **authentic linguistic identity**.
