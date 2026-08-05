@@ -1,68 +1,78 @@
 
-# Language Education in a Brave New World: Generative AI, Linguistic Identity, and the Authenticity Gap in AI-Assisted EFL Writing
+<div align="center">
 
-Target Journal: SSCI / Q1 Language Education / Applied Linguistics  
-Status: Research Data Package for Peer Review  
-Author: Pegah Marikhi (Pegah.merrikhiii@gmail.com)  
-Date:* July 2026
+# 🎓 Language Education in a Brave New World
+### Generative AI, Linguistic Identity, and the Authenticity Gap in AI-Assisted EFL Writing
+
+[!License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[!Data Status](https://img.shields.io/badge/Data-Processed-green)
+[!Target](https://img.shields.io/badge/Target-SSCI Q1-blue)
 
 ---
 
-## 🖼️ Graphical Abstract
+*Author:* Prof. Pegah Marikhi | 📧 Pegah.merrikhiii@gmail.com | 📅 July 2026
+
+---
+
+## 🎨 Graphical Abstract
 !Graphical Abstract
-(https://github.com/Pegi1727/Generative-AI-Linguistic-Identity-and-the-Authenticity-Gap-in-AI-Assisted-EFL-Writing/blob/main/figures/ga.png)
+<sub>*Figure 1: The Graphical Abstract representing the core thesis and the "Authenticity Gap" in AI-assisted writing.*</sub>
+
+</div>
+
+## 📖 Study Overview
+This high-impact mixed-methods study investigates the psychological and linguistic shift in advanced EFL learners (N=60) when using *GPT-4o for writing revisions. We examine the tension between linguistic perfection and the learner's authentic linguistic identity.
+
+### 🎯 Key Research Pillars
+| 🧪 Linguistic Analysis | 🧠 Psychological Impact | 🗣️ Qualitative Depth |
+| :--- | :--- | :--- |
+| Raw Voice $\rightarrow$ AI-Revised | Authenticity Gap Scale (AGS) | Semi-structured Interviews |
+| Complexity & Accuracy Metrics | Identity Compression | Thematic Coding (n=15) |
 
 ---
 
-## 📖 1. Overview of the Study
-This dataset supports a mixed-methods study investigating the impact of Generative AI (specifically GPT-4o) revision on the linguistic identity, authenticity, and agency of advanced EFL learners (N = 60) in Iran. 
-
-Using an *explanatory sequential mixed-methods design, the study tracks:
-1. Linguistic Metrics: Accuracy and complexity from "Raw Voice" $\rightarrow$ "AI-Revised".
-2. Psychological Metrics: Impact on identity via the Authenticity Gap Scale (AGS).
-3. Qualitative Insight:* Deep-dive semi-structured interviews (n = 15).
-
-### 🛠️ Research Workflow
-!Research Workflow
-Figure 2: Detailed pipeline of data collection and analysis.
+## 🛠️ Research Architecture
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pegi1727/Generative-AI-Linguistic-Identity-and-the-Authenticity-Gap-in-AI-Assisted-EFL-Writing/main/figures/figure3_researchworkflow_pink_gray.png" width="80%" />
+  <p><i>Figure 2: End-to-end pipeline of data collection and analysis.</i></p>
+</div>
 
 ---
 
-## 📂 2. Repository Structure & Data Access
+## 📂 Data Repository & Access
 
-### 📊 Dataset Overview
-The core data is hosted in the file: `brave world Research_Data_Complete.xlsx` located in the `/data/processed/` folder.
+### 📊 The Master Dataset
+The complete data package is stored in: `📂 /data/processed/brave world Research_Data_Complete.xlsx`
 
-*Workbook Sheets:
-- 📑 `README` & `Codebook`: Variable definitions and scale descriptors.
-- 👥 `Participants`: Demographic profiles (N=60).
-- 📈 `Linguistic_Features`: Pairwise comparison (Raw vs. Revised).
-- 🧠 `AGS_Items` & `AGS_Subscales`: Item-level and composite scores for Identity Compression.
-- 💬 `Interview_Codes`: Qualitative thematic categories.
-- 🧮 `LMEM_Data`: Structured data for Linear Mixed-Effects Modeling.
+Detailed Workbook Structure:
+- Core Data: `Participants`, `Linguistic_Features`, `LMEM_Data`
+- Psychometric Scales: `AGS_Items`, `AGS_Subscales`
+- Qualitative: `Interview_Codes`
+- Documentation: `README`, `Codebook`
 
-### 📉 Key Visualizations
-Below are the primary findings presented in the manuscript:
+### 📉 Critical Visualizations
+<details>
+<summary><b>🔍 Click to expand Key Findings Visuals</b></summary>
 
-#### A. Data Collection Procedure
+#### 🟢 Data Collection Procedure
 !Data Collection
 
-#### B. Performance Comparison (Before vs. After AI)
+#### 🔵 Performance Analysis (Before vs. After AI)
 !AI Impact
 
----
-
-## ⚙️ 3. Technical Specifications & Replication
-- Analysis Tools: R (LME4 package), SPSS.
-- Reference Number (DOI): 10.5281/zenodo.21770840
-- Replication: Statistical scripts in the `/code/` directory refer directly to the `LMEM_Data` sheet.
+</details>
 
 ---
 
-## ⚖️ 4. Use and Terms
-- All data are fully anonymized to ensure participant privacy.
-- This package is provided for the purpose of peer review and scientific replication.
-- License:* MIT License / Open Data.
+## ⚙️ Technical Specifications
+- Analysis Suite: `R` (LME4 package) & `SPSS`
+- Data Framework: Linear Mixed-Effects Models (LMEM)
+- DOI:* `[Pending / To be added]`
+
+---
+
+<div align="center">
+
+  <sub>This research is conducted under strict ethical guidelines for participant anonymity and data privacy.</sub>
+</div>
 ```
-
----
