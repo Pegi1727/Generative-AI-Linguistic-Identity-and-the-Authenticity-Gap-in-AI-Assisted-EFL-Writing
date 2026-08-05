@@ -2,14 +2,9 @@
 # 🎓 Language Education in a Brave New World
 ### *Generative AI, Linguistic Identity, and the Authenticity Gap in AI-Assisted EFL Writing*
 
-**Author:** Prof. Pegah Marikh | 📧 [Pegah.merrikhiii@gmail.com](mailto:Pegah.merrikhiii@gmail.com) | 📅 July 2026
+**Author:** Prof. Pegah Marikhi | 📧 [Pegah.merrikhiii@gmail.com](mailto:Pegah.merrikhiii@gmail.com) | 📅 July 2026
 
----
-## Graphical Abstract
-
-![Graphical Abstract](./figures/ga.png)
-
-*Figure 1. Conceptual framework of the “Authenticity Gap” in AI-assisted writing processes.*
+![Graphical Abstract](https://github.com/USERNAME/Generative-AI-Linguistic-Identity-and-the-Authenticity-Gap-in-AI-Assisted-EFL-Writing/blob/main/figures/ga.png?raw=true)
 
 ## 📖 Study Overview
 This high-impact mixed-methods study investigates the psychological and linguistic shift in advanced EFL learners (N=60) when using **GPT-4o** for writing revisions. We examine the tension between linguistic perfection and the learner's **authentic linguistic identity**.
