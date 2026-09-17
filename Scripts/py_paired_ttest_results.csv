@@ -1,0 +1,5 @@
+Feature,Raw_Mean,Raw_SD,AI_Mean,AI_SD,t_stat,p_value,Cohens_d
+Grammar_Errors,10.36,2.84,1.86,0.64,-23.04,< .001,-2.97
+MTLD,55.96,7.77,90.3,6.06,29.13,< .001,3.76
+Stance_Markers,3.92,1.03,1.21,0.44,-19.42,< .001,-2.51
+First_Person_Expressions,2.36,0.94,0.79,0.41,-11.98,< .001,-1.55
