@@ -112,3 +112,14 @@ Scores on the **Authenticity Gap Scale (AGS)** revealed that perceived text owne
 │   ├── 03_lmem_analysis.R
 │   └── master_analysis.ipynb
 └── README.md
+---
+📜 Citation
+bibtex
+@misc{merrikhi_2026_zenodo21821502,
+  author       = {Merrikhi, Pegah},
+  title        = {{Generative AI, Linguistic Identity, and the Authenticity 
+                   Gap in AI-Assisted EFL Writing: Complete Empirical Repository}},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21
+---
