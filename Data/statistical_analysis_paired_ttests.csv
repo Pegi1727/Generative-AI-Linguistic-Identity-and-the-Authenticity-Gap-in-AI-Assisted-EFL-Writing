@@ -1,0 +1,7 @@
+﻿Variable,Raw_Mean,Raw_SD,AI_Mean,AI_SD,t_stat,p_value,Cohen_d
+Grammar_Errors,8.12,2.08,1.18,0.47,25.48,1.5531224991727986e-33,-3.29
+Error_Free_T_Units_Pct,42.85,7.5,88.42,5.22,-39.41,4.40217817565799e-44,5.09
+MTLD_Lexical_Diversity,70.31,12.52,51.08,10.6,9.93,3.2854678298219384e-14,-1.28
+Lexical_Overlap_Pct,12.63,3.67,34.68,6.96,-21.62,9.892021637664866e-30,2.79
+Stance_Markers_Per_100w,4.23,1.02,1.89,0.62,14.41,5.530970975993921e-21,-1.86
+First_Person_Expressions_Per_100w,6.23,2.36,2.98,1.47,8.44,1.0023614898123356e-11,-1.09

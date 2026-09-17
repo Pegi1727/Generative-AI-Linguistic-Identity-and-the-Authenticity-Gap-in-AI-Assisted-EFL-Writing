@@ -1,0 +1,121 @@
+﻿Participant_ID,Condition,Condition_Code,Grammar_Errors,Error_Free_T_Units_Pct,MTLD_Lexical_Diversity,Lexical_Overlap_Pct,Stance_Markers_Per_100w,First_Person_Expressions_Per_100w,Gender,Age,CEFR_Level,AI_Experience_Category
+P01,Raw_Learner_Draft,0,7.92,43.37,92.56,13.43,4.11,6.98,Female,30,B2,1-2 years
+P02,Raw_Learner_Draft,0,8.17,42.62,62.24,12.74,5.39,1.83,Female,30,C1,> 2 years
+P03,Raw_Learner_Draft,0,11.19,39.84,71.09,10.16,2.15,8.59,Female,30,C1,> 2 years
+P04,Raw_Learner_Draft,0,9.51,44.81,67.62,14.85,5.82,8.46,Male,22,C1,> 2 years
+P05,Raw_Learner_Draft,0,11.88,36.71,79.98,15.27,5.65,6.59,Female,32,B1,> 2 years
+P06,Raw_Learner_Draft,0,7.52,46.21,45.58,15.16,4.8,5.61,Male,32,C1,> 2 years
+P07,Raw_Learner_Draft,0,4.26,49.73,58.86,12.14,4.43,6.67,Female,29,B2,1-2 years
+P08,Raw_Learner_Draft,0,8.02,48.05,59.18,14.96,2.1,5.04,Male,28,B2,1-2 years
+P09,Raw_Learner_Draft,0,8.09,41.12,77.7,9.05,2.3,6.27,Female,25,B2,< 1 year
+P10,Raw_Learner_Draft,0,5.91,45.44,68.93,8.92,4.22,6.45,Male,30,C1,< 1 year
+P11,Raw_Learner_Draft,0,7.3,50.3,92.23,17.19,3.68,4.57,Male,27,C1,1-2 years
+P12,Raw_Learner_Draft,0,7.83,17.66,64.24,14.74,5.48,5.58,Male,25,B1,> 2 years
+P13,Raw_Learner_Draft,0,6.17,48.08,79.02,10.84,3.12,6.66,Female,32,B1,> 2 years
+P14,Raw_Learner_Draft,0,10.09,42.07,69.59,12.49,4.07,6.11,Female,19,B2,1-2 years
+P15,Raw_Learner_Draft,0,6.95,45.99,59.55,7.26,4.18,5.28,Male,19,C1,1-2 years
+P16,Raw_Learner_Draft,0,7.99,55.02,79.11,19.52,2.53,10.12,Female,27,B1,1-2 years
+P17,Raw_Learner_Draft,0,8.46,41.2,67.08,13.82,4.67,8.53,Female,29,B2,< 1 year
+P18,Raw_Learner_Draft,0,7.3,52.56,66.87,5.03,3.06,8.86,Female,32,C1,1-2 years
+P19,Raw_Learner_Draft,0,6.2,46.09,70.19,15.47,4.23,4.96,Male,27,C1,> 2 years
+P20,Raw_Learner_Draft,0,10.21,34.71,82.04,14.68,3.79,5.57,Female,22,B1,1-2 years
+P21,Raw_Learner_Draft,0,8.64,42.14,55.88,9.44,3.64,9.94,Male,31,B2,1-2 years
+P22,Raw_Learner_Draft,0,11.49,41.09,70.23,11.54,4.92,10.63,Female,27,C1,< 1 year
+P23,Raw_Learner_Draft,0,8.84,35.27,84.58,15.08,5.83,5.93,Female,21,B1,1-2 years
+P24,Raw_Learner_Draft,0,8.74,29.3,89.03,15.34,5.86,6.19,Male,25,B2,1-2 years
+P25,Raw_Learner_Draft,0,10.99,57.27,55.37,15.17,3.96,3.3,Female,24,B2,> 2 years
+P26,Raw_Learner_Draft,0,10.07,39.75,67.34,8.23,4.37,6.02,Male,26,C1,1-2 years
+P27,Raw_Learner_Draft,0,7.57,39.98,72.51,11.19,3.4,8.68,Female,29,B2,< 1 year
+P28,Raw_Learner_Draft,0,9.39,43.37,62.56,11.53,4.55,5.89,Female,27,B2,< 1 year
+P29,Raw_Learner_Draft,0,3.96,52.06,60.55,16.23,3.43,2.34,Female,32,B2,> 2 years
+P30,Raw_Learner_Draft,0,3.67,39.8,85.4,16.56,4.92,7.21,Female,23,C1,1-2 years
+P31,Raw_Learner_Draft,0,10.53,52.04,84.03,16.39,3.61,9.03,Female,19,B2,< 1 year
+P32,Raw_Learner_Draft,0,7.3,47.28,67.7,11.86,5.52,3.6,Female,21,B2,> 2 years
+P33,Raw_Learner_Draft,0,9.9,46.13,61.25,15.77,4.95,6.52,Female,28,B2,> 2 years
+P34,Raw_Learner_Draft,0,13.85,45.86,78.51,14.35,4.79,0.53,Male,30,B2,1-2 years
+P35,Raw_Learner_Draft,0,7.11,45.4,45.99,7.64,4.23,8.85,Female,26,B2,1-2 years
+P36,Raw_Learner_Draft,0,7.27,43.81,56.55,6.41,4.84,4.27,Female,29,C1,< 1 year
+P37,Raw_Learner_Draft,0,10.91,33.51,50.49,18.33,3.22,4.06,Male,24,B2,1-2 years
+P38,Raw_Learner_Draft,0,3.92,47.44,88.54,16.44,2.93,1.83,Male,26,B2,< 1 year
+P39,Raw_Learner_Draft,0,7.88,41.21,85.47,8.33,3.17,9.03,Female,27,C1,< 1 year
+P40,Raw_Learner_Draft,0,10.5,47.62,66.94,18.37,4.51,7.92,Female,22,C1,> 2 years
+P41,Raw_Learner_Draft,0,7.28,34.45,63.35,12.64,5.13,6.78,Male,19,B1,1-2 years
+P42,Raw_Learner_Draft,0,5.84,37.28,85.93,16.01,4.41,9.94,Female,32,B2,< 1 year
+P43,Raw_Learner_Draft,0,5.57,32.43,90.56,11.63,3.62,6.87,Female,19,B2,> 2 years
+P44,Raw_Learner_Draft,0,7.53,35.23,80.33,7.7,3.82,7.12,Female,28,B2,1-2 years
+P45,Raw_Learner_Draft,0,9.6,40.34,58.67,14.81,5.16,2.83,Male,22,B2,1-2 years
+P46,Raw_Learner_Draft,0,10.74,41.03,78.18,7.81,3.51,8.36,Male,30,C1,1-2 years
+P47,Raw_Learner_Draft,0,6.45,51.06,42.78,13.26,2.2,8.44,Female,32,C1,1-2 years
+P48,Raw_Learner_Draft,0,8.23,60.1,68.5,15.68,5.43,1.68,Female,25,B1,1-2 years
+P49,Raw_Learner_Draft,0,8.37,55.71,67.01,16.42,5.62,3.71,Male,20,B1,1-2 years
+P50,Raw_Learner_Draft,0,9.09,40.11,63.06,9.88,5.73,4.23,Female,21,B1,1-2 years
+P51,Raw_Learner_Draft,0,6.0,45.03,89.12,6.02,4.92,9.41,Female,19,B2,1-2 years
+P52,Raw_Learner_Draft,0,5.75,32.28,78.71,17.09,3.71,3.56,Female,23,C1,> 2 years
+P53,Raw_Learner_Draft,0,9.65,37.41,75.16,8.81,4.59,5.25,Male,19,B2,1-2 years
+P54,Raw_Learner_Draft,0,9.59,50.98,69.93,12.81,4.11,7.37,Female,26,B2,1-2 years
+P55,Raw_Learner_Draft,0,7.76,35.49,69.45,4.81,4.01,7.15,Female,19,B2,< 1 year
+P56,Raw_Learner_Draft,0,7.96,37.8,82.07,6.55,2.37,5.64,Male,29,B2,< 1 year
+P57,Raw_Learner_Draft,0,6.0,41.38,74.52,15.43,5.29,9.71,Female,19,C1,< 1 year
+P58,Raw_Learner_Draft,0,7.1,30.63,57.58,14.87,5.22,4.53,Female,20,B1,< 1 year
+P59,Raw_Learner_Draft,0,9.54,48.53,75.92,10.81,4.59,5.33,Male,20,C1,1-2 years
+P60,Raw_Learner_Draft,0,5.94,41.59,45.4,13.0,3.71,5.65,Male,30,B1,1-2 years
+P01,AI_Assisted_Revision,1,0.89,98.23,44.41,21.47,1.97,2.65,Female,30,B2,1-2 years
+P02,AI_Assisted_Revision,1,1.31,85.96,49.9,37.65,1.84,4.31,Female,30,C1,> 2 years
+P03,AI_Assisted_Revision,1,1.43,81.49,63.58,46.98,1.86,2.33,Female,30,C1,> 2 years
+P04,AI_Assisted_Revision,1,0.58,87.85,52.55,34.01,1.75,3.08,Male,22,C1,> 2 years
+P05,AI_Assisted_Revision,1,1.46,89.78,66.06,28.4,2.78,2.94,Female,32,B1,> 2 years
+P06,AI_Assisted_Revision,1,2.32,90.56,38.62,38.97,1.8,2.12,Male,32,C1,> 2 years
+P07,AI_Assisted_Revision,1,0.87,81.08,43.65,50.34,1.36,3.18,Female,29,B2,1-2 years
+P08,AI_Assisted_Revision,1,1.51,88.45,47.93,39.06,1.62,1.85,Male,28,B2,1-2 years
+P09,AI_Assisted_Revision,1,1.49,83.56,67.64,35.56,1.93,5.27,Female,25,B2,< 1 year
+P10,AI_Assisted_Revision,1,1.15,87.09,55.76,28.86,1.43,0.26,Male,30,C1,< 1 year
+P11,AI_Assisted_Revision,1,1.36,91.01,55.59,35.66,2.55,0.86,Male,27,C1,1-2 years
+P12,AI_Assisted_Revision,1,1.14,90.19,47.29,35.88,0.72,4.67,Male,25,B1,> 2 years
+P13,AI_Assisted_Revision,1,0.99,84.41,54.0,40.16,1.75,3.1,Female,32,B1,> 2 years
+P14,AI_Assisted_Revision,1,1.42,83.2,53.33,23.65,2.17,0.28,Female,19,B2,1-2 years
+P15,AI_Assisted_Revision,1,0.53,91.27,62.15,35.87,2.51,0.25,Male,19,C1,1-2 years
+P16,AI_Assisted_Revision,1,1.24,98.77,59.38,38.24,2.06,0.11,Female,27,B1,1-2 years
+P17,AI_Assisted_Revision,1,1.19,82.87,41.73,34.87,1.99,6.87,Female,29,B2,< 1 year
+P18,AI_Assisted_Revision,1,0.27,81.29,60.85,38.26,2.17,4.2,Female,32,C1,1-2 years
+P19,AI_Assisted_Revision,1,0.45,86.5,40.89,28.37,2.36,3.17,Male,27,C1,> 2 years
+P20,AI_Assisted_Revision,1,2.05,91.86,40.79,28.94,2.42,2.6,Female,22,B1,1-2 years
+P21,AI_Assisted_Revision,1,1.43,81.98,63.37,29.76,3.06,2.48,Male,31,B2,1-2 years
+P22,AI_Assisted_Revision,1,1.67,78.9,35.25,20.59,1.72,3.77,Female,27,C1,< 1 year
+P23,AI_Assisted_Revision,1,1.4,96.93,39.84,39.24,2.47,5.09,Female,21,B1,1-2 years
+P24,AI_Assisted_Revision,1,1.7,95.5,63.91,40.67,1.32,5.6,Male,25,B2,1-2 years
+P25,AI_Assisted_Revision,1,1.0,100.5,34.58,38.19,2.18,2.78,Female,24,B2,> 2 years
+P26,AI_Assisted_Revision,1,0.71,89.93,58.37,42.59,1.78,4.25,Male,26,C1,1-2 years
+P27,AI_Assisted_Revision,1,0.72,92.98,59.12,26.91,1.92,2.47,Female,29,B2,< 1 year
+P28,AI_Assisted_Revision,1,1.43,93.53,59.31,30.1,1.88,2.16,Female,27,B2,< 1 year
+P29,AI_Assisted_Revision,1,1.6,81.99,67.77,32.22,2.34,3.26,Female,32,B2,> 2 years
+P30,AI_Assisted_Revision,1,1.08,86.53,55.76,27.56,1.84,1.21,Female,23,C1,1-2 years
+P31,AI_Assisted_Revision,1,0.8,93.34,66.17,48.4,2.06,2.37,Female,19,B2,< 1 year
+P32,AI_Assisted_Revision,1,0.9,93.43,39.38,24.89,0.99,2.71,Female,21,B2,> 2 years
+P33,AI_Assisted_Revision,1,2.17,92.86,53.88,40.52,1.95,4.8,Female,28,B2,> 2 years
+P34,AI_Assisted_Revision,1,0.81,82.95,48.19,37.84,1.68,3.11,Male,30,B2,1-2 years
+P35,AI_Assisted_Revision,1,1.71,89.95,50.14,34.59,1.62,2.47,Female,26,B2,1-2 years
+P36,AI_Assisted_Revision,1,0.77,88.37,42.23,42.59,1.93,2.2,Female,29,C1,< 1 year
+P37,AI_Assisted_Revision,1,0.61,84.68,60.02,41.24,1.31,4.41,Male,24,B2,1-2 years
+P38,AI_Assisted_Revision,1,2.28,90.24,57.59,33.05,1.91,3.95,Male,26,B2,< 1 year
+P39,AI_Assisted_Revision,1,1.43,84.39,41.3,36.3,2.39,2.93,Female,27,C1,< 1 year
+P40,AI_Assisted_Revision,1,1.22,96.31,60.95,27.51,1.16,1.74,Female,22,C1,> 2 years
+P41,AI_Assisted_Revision,1,1.38,85.41,63.26,41.45,3.51,1.89,Male,19,B1,1-2 years
+P42,AI_Assisted_Revision,1,0.72,90.4,60.42,41.52,2.25,1.92,Female,32,B2,< 1 year
+P43,AI_Assisted_Revision,1,1.29,89.92,44.08,38.96,1.24,3.06,Female,19,B2,> 2 years
+P44,AI_Assisted_Revision,1,0.2,94.72,43.54,32.88,2.7,4.05,Female,28,B2,1-2 years
+P45,AI_Assisted_Revision,1,0.93,83.0,63.24,36.26,1.7,2.08,Male,22,B2,1-2 years
+P46,AI_Assisted_Revision,1,2.02,90.63,33.1,42.46,0.1,2.29,Male,30,C1,1-2 years
+P47,AI_Assisted_Revision,1,1.06,84.86,33.3,41.78,2.99,0.44,Female,32,C1,1-2 years
+P48,AI_Assisted_Revision,1,0.66,84.51,43.61,33.74,1.27,4.08,Female,25,B1,1-2 years
+P49,AI_Assisted_Revision,1,1.54,85.19,42.36,34.39,0.89,2.17,Male,20,B1,1-2 years
+P50,AI_Assisted_Revision,1,1.35,97.41,60.27,19.07,0.79,2.13,Female,21,B1,1-2 years
+P51,AI_Assisted_Revision,1,1.16,80.97,43.99,42.57,2.16,2.82,Female,19,B2,1-2 years
+P52,AI_Assisted_Revision,1,1.7,84.84,38.11,37.88,1.93,5.98,Female,23,C1,> 2 years
+P53,AI_Assisted_Revision,1,1.24,84.82,64.51,29.04,2.28,2.93,Male,19,B2,1-2 years
+P54,AI_Assisted_Revision,1,1.28,89.81,40.58,21.93,2.65,4.89,Female,26,B2,1-2 years
+P55,AI_Assisted_Revision,1,0.91,84.25,39.21,32.8,1.83,4.04,Female,19,B2,< 1 year
+P56,AI_Assisted_Revision,1,0.85,84.57,62.95,33.38,1.05,1.74,Male,29,B2,< 1 year
+P57,AI_Assisted_Revision,1,0.9,91.6,53.16,32.38,1.64,1.51,Female,19,C1,< 1 year
+P58,AI_Assisted_Revision,1,0.79,82.12,50.28,33.41,2.1,4.27,Female,20,B1,< 1 year
+P59,AI_Assisted_Revision,1,0.9,93.21,56.17,37.23,2.49,4.2,Male,20,C1,1-2 years
+P60,AI_Assisted_Revision,1,1.09,92.36,25.47,21.69,1.02,4.51,Male,30,B1,1-2 years

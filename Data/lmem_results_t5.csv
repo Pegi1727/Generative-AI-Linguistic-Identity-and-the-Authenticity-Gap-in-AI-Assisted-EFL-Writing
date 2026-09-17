@@ -1,0 +1,5 @@
+﻿Predictor,β,SE,t,P
+AI Revision (Accuracy),2.45,0.31,7.90,< .001
+AI Revision (MTLD Change),–1.12,0.24,–4.67,< .01
+Proficiency Level,0.54,0.21,2.57,< .05
+Revision × Proficiency,–0.38,0.15,–2.53,< .05

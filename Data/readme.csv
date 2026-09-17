@@ -1,0 +1,8 @@
+﻿Field,Value
+Project Title,"When AI Improves the Text but Changes the Voice: Generative AI, Authorial Identity, and Authenticity in EFL Writing"
+Principal Investigator,"Pegah Marikh, PhD"
+Design,"Explanatory Sequential Mixed-Methods Design (N = 60 quant, n = 15 qual)"
+Data Collection Period,Fall / Winter 2025
+Software Used,"R 4.3.1 (lme4, lmerTest, psych), Python 3.11, SPSS 29.0"
+Statistical Model Formula,Outcome ~ Condition * Proficiency + AI_Experience + (1 | Participant_ID)
+Audit Status,Fully calibrated and reconstructed against all 8 empirical tables in the manuscript.

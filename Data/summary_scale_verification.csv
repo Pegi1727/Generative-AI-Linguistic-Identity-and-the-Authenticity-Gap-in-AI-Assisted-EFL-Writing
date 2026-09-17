@@ -1,0 +1,6 @@
+﻿Metric,Reconstructed_Value,Target_Value
+Cronbach_Alpha_AGS,0.952,Target: 0.87
+AGS_Scale_Mean,3.73,Target: 3.68
+AGS_Scale_SD,0.61,Target: 0.64
+Participants_Total_N,60.0,Target: 60
+Linguistic_Observations_Total,120.0,Target: 120 (60 Raw + 60 AI)

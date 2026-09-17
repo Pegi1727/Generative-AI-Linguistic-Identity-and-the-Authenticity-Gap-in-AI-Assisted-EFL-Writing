@@ -1,0 +1,61 @@
+﻿Participant_ID,Gender,Age,CEFR_Level,AI_Experience_Category,Qualitative_Interview_Sample
+P01,Female,30,B2,1-2 years,0
+P02,Female,30,C1,> 2 years,0
+P03,Female,30,C1,> 2 years,1
+P04,Male,22,C1,> 2 years,0
+P05,Female,32,B1,> 2 years,0
+P06,Male,32,C1,> 2 years,0
+P07,Female,29,B2,1-2 years,1
+P08,Male,28,B2,1-2 years,0
+P09,Female,25,B2,< 1 year,0
+P10,Male,30,C1,< 1 year,0
+P11,Male,27,C1,1-2 years,0
+P12,Male,25,B1,> 2 years,1
+P13,Female,32,B1,> 2 years,0
+P14,Female,19,B2,1-2 years,1
+P15,Male,19,C1,1-2 years,0
+P16,Female,27,B1,1-2 years,0
+P17,Female,29,B2,< 1 year,0
+P18,Female,32,C1,1-2 years,0
+P19,Male,27,C1,> 2 years,1
+P20,Female,22,B1,1-2 years,0
+P21,Male,31,B2,1-2 years,0
+P22,Female,27,C1,< 1 year,1
+P23,Female,21,B1,1-2 years,0
+P24,Male,25,B2,1-2 years,0
+P25,Female,24,B2,> 2 years,0
+P26,Male,26,C1,1-2 years,0
+P27,Female,29,B2,< 1 year,1
+P28,Female,27,B2,< 1 year,0
+P29,Female,32,B2,> 2 years,0
+P30,Female,23,C1,1-2 years,0
+P31,Female,19,B2,< 1 year,1
+P32,Female,21,B2,> 2 years,0
+P33,Female,28,B2,> 2 years,0
+P34,Male,30,B2,1-2 years,0
+P35,Female,26,B2,1-2 years,1
+P36,Female,29,C1,< 1 year,0
+P37,Male,24,B2,1-2 years,0
+P38,Male,26,B2,< 1 year,0
+P39,Female,27,C1,< 1 year,0
+P40,Female,22,C1,> 2 years,0
+P41,Male,19,B1,1-2 years,1
+P42,Female,32,B2,< 1 year,0
+P43,Female,19,B2,> 2 years,0
+P44,Female,28,B2,1-2 years,1
+P45,Male,22,B2,1-2 years,0
+P46,Male,30,C1,1-2 years,0
+P47,Female,32,C1,1-2 years,0
+P48,Female,25,B1,1-2 years,1
+P49,Male,20,B1,1-2 years,0
+P50,Female,21,B1,1-2 years,0
+P51,Female,19,B2,1-2 years,0
+P52,Female,23,C1,> 2 years,1
+P53,Male,19,B2,1-2 years,0
+P54,Female,26,B2,1-2 years,0
+P55,Female,19,B2,< 1 year,0
+P56,Male,29,B2,< 1 year,1
+P57,Female,19,C1,< 1 year,0
+P58,Female,20,B1,< 1 year,0
+P59,Male,20,C1,1-2 years,0
+P60,Male,30,B1,1-2 years,1
